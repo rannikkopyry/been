@@ -1,12 +1,12 @@
 # Europe
 
 - [ ] AL Albania
-- [ ] AT Austria
-- [x] BY Belarus
+- [x] AT Austria
+- [ ] BY Belarus
 - [ ] BE Belgium
 - [ ] BA Bosnia and Herzegovina
 - [ ] BG Bulgaria
-- [ ] HR Croatia
+- [x] HR Croatia
 - [x] CZ Czech Republic
 - [x] DK Denmark
 - [x] EE Estonia
@@ -23,26 +23,26 @@
 - [x] LT Lithuania
 - [ ] LU Luxembourg
 - [ ] MK Macedonia
-- [x] MD Moldova
+- [ ] MD Moldova
 - [ ] ME Montenegro
 - [x] NL Netherlands
-- [ ] NO Norway
+- [x] NO Norway
 - [x] PL Poland
-- [x] PT Portugal
+- [ ] PT Portugal
 - [ ] RO Romania
 - [ ] RS Serbia
 - [ ] SK Slovakia
-- [ ] SI Slovenia
+- [x] SI Slovenia
 - [x] ES Spain
-- [ ] SE Sweden
+- [x] SE Sweden
 - [x] CH Switzerland
-- [x] UA Ukraine
+- [ ] UA Ukraine
 - [x] GB United Kingdom
 
 # Asia
 
 - [ ] AF Afghanistan
-- [x] AM Armenia
+- [ ] AM Armenia
 - [ ] AZ Azerbaijan
 - [ ] BD Bangladesh
 - [ ] BT Bhutan
@@ -54,7 +54,7 @@
 - [ ] IR Iran
 - [ ] IQ Iraq
 - [ ] IL Israel
-- [x] JP Japan
+- [ ] JP Japan
 - [ ] JO Jordan
 - [ ] KZ Kazakhstan
 - [ ] KW Kuwait
@@ -64,42 +64,42 @@
 - [ ] MY Malaysia
 - [ ] MN Mongolia
 - [ ] MM Myanmar
-- [x] NP Nepal
+- [ ] NP Nepal
 - [ ] KP North Korea
 - [ ] OM Oman
 - [ ] PK Pakistan
 - [ ] PS Palestinian Territories
 - [ ] PH Philippines
 - [ ] QA Qatar
-- [x] RU Russia
+- [ ] RU Russia
 - [ ] SA Saudi Arabia
 - [ ] KR South Korea
 - [ ] LK Sri Lanka
 - [ ] SY Syria
 - [ ] TW Taiwan
 - [ ] TJ Tajikistan
-- [x] TH Thailand
+- [ ] TH Thailand
 - [ ] TL Timor-Leste
-- [x] TR Turkey
+- [ ] TR Turkey
 - [ ] TM Turkmenistan
-- [x] AE United Arab Emirates
+- [ ] AE United Arab Emirates
 - [ ] UZ Uzbekistan
 - [ ] VN Vietnam
 - [ ] YE Yemen
 
 # North America
 
-- [x] CA Canada
+- [ ] CA Canada
 - [ ] GL Greenland
-- [x] MX Mexico
+- [ ] MX Mexico
 - [ ] SJ Svalbard and Jan Mayen
-- [x] US United States
+- [ ] US United States
 
 # Central America
 
 - [ ] BS Bahamas
 - [ ] BZ Belize
-- [x] CR Costa Rica
+- [ ] CR Costa Rica
 - [ ] CU Cuba
 - [ ] DO Dominican Republic
 - [ ] SV El Salvador
@@ -118,20 +118,20 @@
 - [ ] BO Bolivia
 - [ ] BR Brazil
 - [ ] CL Chile
-- [x] CO Colombia
-- [x] EC Ecuador
+- [ ] CO Colombia
+- [ ] EC Ecuador
 - [ ] FK Falkland Islands
 - [ ] GF French Guiana
 - [ ] GY Guyana
 - [ ] PY Paraguay
-- [x] PE Peru
+- [ ] PE Peru
 - [ ] SR Suriname
 - [ ] UY Uruguay
 - [ ] VE Venezuela
 
 # Oceania
 
-- [x] AU Australia
+- [ ] AU Australia
 - [ ] FJ Fiji
 - [ ] TF French Southern and Antarctic Lands
 - [ ] NC New Caledonia
@@ -165,7 +165,7 @@
 - [ ] GH Ghana
 - [ ] GN Guinea
 - [ ] GW Guinea-Bissau
-- [x] KE Kenya
+- [ ] KE Kenya
 - [ ] LS Lesotho
 - [ ] LR Liberia
 - [ ] LY Libya
@@ -189,9 +189,8 @@
 - [ ] SZ Swaziland
 - [ ] TZ Tanzania
 - [ ] TG Togo
-- [x] TN Tunisia
+- [ ] TN Tunisia
 - [ ] UG Uganda
 - [ ] EH Western Sahara
 - [ ] ZM Zambia
 - [ ] ZW Zimbabwe
-
